@@ -1,7 +1,7 @@
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Q2 {
+public class Q5 {
 
     public static void main(String[] args) {
 
